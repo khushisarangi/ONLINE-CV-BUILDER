@@ -1,0 +1,35 @@
+#cv-template {
+  display: none;
+}
+header {
+  background-color: #eeeeef;
+  color: rgb(7, 7, 7);
+  padding: 20px;
+  position: relative;
+}
+.header-content {
+  display: flex;
+  align-items: flex-start; /* Align items to the start (top) of the header */
+  justify-content: space-between; /* Create space between logo and content */
+}
+.logo {
+  width: 100px;
+  height: auto;
+}
+h1 {
+  font-size: 36px;
+  margin: 20px 0;
+}
+.myimg {
+  border-radius: 30%;
+  width: 200px;
+}
+
+.background {
+  background-color: rgb(235, 240, 243);
+}
+a {
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+}
